@@ -1,0 +1,3 @@
+../Core/Src/buffer.c:8:6:buffer_init	16	static
+../Core/Src/buffer.c:14:9:read_buffer	32	static
+../Core/Src/buffer.c:34:9:write_buffer	32	static
